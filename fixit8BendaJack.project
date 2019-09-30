@@ -21,6 +21,22 @@
             "Form1", 
             "Form1.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "namesExtra", 
+            "namesExtra.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "productExtra", 
+            "productExtra.json"
+          ]
         }
       ], 
       "configxml": null, 
